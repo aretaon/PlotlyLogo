@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='plotly-logo',
+    name='plotlylogo',
     version='0.0.2',
     packages=find_packages(),
     url='https://github.com/kevinkovalchik/Plotly-Logo',
